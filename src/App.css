@@ -1,0 +1,37 @@
+.logo {
+  padding-left: 10px;
+  width: 200px;
+}
+
+.text {
+  font-size: larger;
+  /* padding: 0% 25% 0% 25%; */
+  justify-content: space-around;
+  letter-spacing: 6px;
+}
+
+.s1 {
+  color: blue;
+}
+
+.bg1 {
+  background-color: blue;
+  width: 100%;
+  color: antiquewhite;
+  height: 300px;
+  padding-top: 100px;
+}
+.dq2{
+ padding-bottom: 50px;
+}
+
+.d1{
+  color: blue;
+}
+.cs1{
+  color: white;
+  background-color: blue;
+  height: 200px;
+  width: 100%;
+  padding-top: 30px;
+}

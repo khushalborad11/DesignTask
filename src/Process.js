@@ -14,6 +14,7 @@ export default function Process() {
                     <h3>Discuss</h3>
                     <p>Lorem ipsum dolor nihilincidunt enim odit rem, tempore et beatae qgnam fugit laudantium ut.</p>
                 </div>
+                
                 <div>
                     <i class="fa fa-vcard-o" style={{ fontSize: '100px' }}></i>
 

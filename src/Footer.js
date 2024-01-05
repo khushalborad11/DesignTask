@@ -7,17 +7,15 @@ export default function Footer() {
                 <div className='col-lg-3'></div>
 
                 <div className='col-lg-3'>
-                    <div className='ds1'>
+                    <div className='form-control'>
                         <h2>Get In Touch</h2>
-
                         <label htmlFor="Name">First name*:</label><br />
-                        <input type="text" id="Name" name="Name" value="" /><br />
+                        <input className='form-control' type="text" id="Name" name="Name" value="" /><br />
                         <label htmlFor="email">Email*:</label><br />
-                        <input type="email" id="email" name="email" value="" /><br /><br />
+                        <input className='form-control' type="email" id="email" name="email" value="" /><br /><br />
 
-                        <textarea cols={20} rows={4}>Messages:</textarea><br /><br />
-                        <input type="submit" value="Submit" />
-                    </div>
+                        <textarea className='form-control' cols={20} rows={4}>Messages:</textarea><br /><br />
+                        < input className='btn btn-primary' type="submit" value="Submit"/>                    </div>
                 </div>
 
                 <div className='col-lg-3'>

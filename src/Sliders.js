@@ -19,22 +19,22 @@ export default function Sliders() {
         <h1 className='dq2'>Technologies/Frameworks</h1>
         <Slider className='dq1'{...settings}>
           <div>
-            <i className="fa fa-diamond" style={{ fontSize: '36px' }}></i>
+            <i className="fa fa-diamond" style={{ fontSize: '50px' }}></i>
           </div>
           <div>
-            <i class="fa fa-braille" style={{ fontSize: '36px' }}></i>
+            <i class="fa fa-braille" style={{ fontSize: '50px' }}></i>
           </div>
           <div>
-            <i class="fa fa-birthday-cake" style={{ fontSize: '36px' }}></i>
+            <i class="fa fa-birthday-cake" style={{ fontSize: '50px' }}></i>
           </div>
           <div>
-            <i class="fa fa-bank" style={{ fontSize: '36px' }}></i>
+            <i class="fa fa-bank" style={{ fontSize: '50px' }}></i>
           </div>
           <div>
-            <i class="fa fa-asterisk" style={{ fontSize: '36px' }}></i>
+            <i class="fa fa-asterisk" style={{ fontSize: '50px' }}></i>
           </div>
           <div>
-        <i class="fa fa-balance-scale" style={{ fontSize: '36px' }}></i>
+        <i class="fa fa-balance-scale" style={{ fontSize: '50px' }}></i>
           </div>
         </Slider>
       </div>

@@ -46,7 +46,9 @@ export default function Header() {
                                   </NavDropdown>
                                   <Nav.Link href="#hiring!">We ARE HIRING!</Nav.Link>
                                   <Nav.Link href="#contact">CONTACT</Nav.Link>
-                                  <Button>Request A Qaote</Button>
+                                  <button className='va1 '>
+                                      Request A Quote
+                                  </button>
                               </Nav>
 
                           </Navbar.Collapse>
